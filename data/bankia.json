@@ -35,6 +35,7 @@
   "apiStandards": [],
   "apiAggregators": [
     "klarna"
+    "Eurobits"
   ],
   "webApplication": true,
   "mobileApps": [

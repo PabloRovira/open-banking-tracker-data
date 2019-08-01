@@ -119,7 +119,7 @@
   "apiStandards": [],
   "apiAggregators": [
     "klarna",
-    "salt-edge"
+    "eurobits"
   ],
   "webApplication": true,
   "mobileApps": [
